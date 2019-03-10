@@ -1,3 +1,6 @@
+## React & Reactstrap with Navigation Menu and Card component
+This React application showcase on How to integrate Reactstrap, how to show Navigation and on how to add default Card Component that comes with BootStrap.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
